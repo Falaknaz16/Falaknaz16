@@ -5,7 +5,7 @@
 <h3 align="center">Final-Year Computer Science Engineering Student | Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding Girl" width="400"
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://share.google/fPyDgGnDzraq8xZ2G">
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://share.google/fPyDgGnDzraq8xZ2G](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Coding GIF">
 ---
 
 <p align="left">
