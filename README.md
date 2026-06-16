@@ -4,67 +4,49 @@
 
 <h3 align="center">Final-Year Computer Science Engineering Student | Aspiring Software Engineer</h3>
 
-<img align="right" alt="Coding Girl" width="380"
-src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=falaknaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 🚀 About Me
 
 - 🎓 Final-Year Computer Science Engineering Student  
 - 💻 Aspiring Software Engineer focused on **DSA + Development + Cyber Security**  
-- 🧠 Strong interest in problem solving and building real-world systems  
-- 🔐 Exploring Cyber Security concepts and practical tools  
-- 🚀 Actively preparing for internships and placements  
+- 🧠 Strong interest in problem solving and real-world systems  
+- 🔐 Exploring Cyber Security concepts and tools  
+- 🚀 Preparing for internships & placements  
 
 ---
 
 ## 🧭 Current Focus
 
-- 🛠 Building real-world projects (SwapSkill + ATS Analyzer + GitHub portfolio)  
-- 🧠 Improving Data Structures & Algorithms daily  
-- 🌐 Learning Full-Stack Development fundamentals  
-- 🔐 Strengthening Cyber Security knowledge (networks, threats, tools)  
+- 🛠 Building projects (SwapSkill, ATS Analyzer, Portfolio)  
+- 🧠 Improving Data Structures & Algorithms  
+- 🌐 Learning Full-Stack Development  
+- 🔐 Cyber Security fundamentals  
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
----
-
-### 🧠 Computer Science Fundamentals
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Computer Networks  
-- Operating Systems  
-
----
-
-### 🔐 Cyber Security
-- Security Operations Basics  
-- Network Security Concepts  
-- Threat Detection & Analysis  
-- Cyber Security Foundations  
-- 🏅 Palo Alto Networks Certified  
-
----
-
-## 📜 Certifications
-
-- 🏅 Palo Alto Networks Cybersecurity Foundation  
-- 🏅 Palo Alto Networks Network Security Fundamentals  
 
 ---
 
@@ -84,7 +66,7 @@ src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/falak-naz-453a0629b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/falak-naz-453a0629b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
