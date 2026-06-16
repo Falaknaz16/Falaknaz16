@@ -4,8 +4,8 @@
 
 <h3 align="center">Final-Year Computer Science Engineering Student | Aspiring Software Engineer</h3>
 
-<img align="right" alt="Developer Animation" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding Girl" width="380"
+src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=falaknaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
