@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Falak Naz</h1>
 
-<h3 align="center">Final-Year Computer Science Engineering Student | Aspiring Software Engineer</h3>
+<h3 align="center">Securing Systems. Solving Problems. Building Software.</h3>
 
 ---
 
