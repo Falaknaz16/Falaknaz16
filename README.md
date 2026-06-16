@@ -5,7 +5,7 @@
 <h3 align="center">Final-Year Computer Science Engineering Student | Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ5MHdwbGZjMHJhc3l1b3I1Zzd0eHJqZ2R2ODY4Y2IwaHBya3lmYSZlcD12MV9pbnRlcm5hbGZzYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+src="https://iconscout.com/lottie-animations/girl-working-on-laptop">
 
 ---
 
