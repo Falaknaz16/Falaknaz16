@@ -6,8 +6,8 @@
 
 <h4 align="center">🔐 Securing Systems • Solving Problems • Building Software</h4>
 
-<img align="right" alt="Coding" width="400"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ5MHdwbGZjMHJhc3l1b3I1Zzd0eHJqZ2R2ODY4Y2IwaHBya3lmYSZlcD12MV9pbnRlcm5hbGZzYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Developer Animation" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Falaknaz16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
