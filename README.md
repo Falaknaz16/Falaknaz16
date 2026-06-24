@@ -6,8 +6,9 @@
 
 <h4 align="center">🔐 Securing Systems • Solving Problems • Building Software</h4>
 
-<img align="right" alt="Coding Girl" width="380"
-src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Falaknaz16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
