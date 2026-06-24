@@ -6,7 +6,7 @@
 
 <h4 align="center">🔐 Securing Systems • Solving Problems • Building Software</h4>
 
-<img align="right" alt="Coding Girl" width="250"
+<img align="right" alt="Coding Girl" width="380"
 src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 <p align="left">
